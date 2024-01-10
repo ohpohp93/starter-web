@@ -17,3 +17,7 @@ As stated above, the main purpose is to provide simple examples for Git training
 ## How to Contribute
 
 This a smple web project, deployment
+
+## Copyright
+
+asfasdads
